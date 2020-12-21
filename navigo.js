@@ -54,3 +54,4 @@ async function checkAuthen() {
     redirect('login')
   }
 }
+window.router = router
